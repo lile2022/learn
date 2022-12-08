@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b4629c0626da48",
+        "id": "aadd1cd833d64908",
         "type": "tabs",
         "children": [
           {
-            "id": "02bc81dace63acf7",
+            "id": "c8de97ef557deb4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习计划/学习计划-tmp.md",
+                "file": "Daily/2022-12-08_星期四.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习计划/学习计划-tmp.md",
+                "file": "Daily/2022-12-08_星期四.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习计划/学习计划-tmp.md",
+                "file": "Daily/2022-12-08_星期四.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习计划/学习计划-tmp.md"
+                "file": "Daily/2022-12-08_星期四.md"
               }
             }
           }
@@ -136,8 +136,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02bc81dace63acf7",
+  "active": "c8de97ef557deb4b",
   "lastOpenFiles": [
-    "2022-12-04.md"
+    "Daily/2022-12-07_星期三.md",
+    "Daily/2022-12-08_星期四.md",
+    "Notes/obsidian学习.md",
+    "Daily/2022-12-06_星期二.md",
+    "内容.md",
+    "Daily/2022-12-05_星期一.md",
+    "Notes/个人学习计划.md",
+    "Daily/2022-12-04.md",
+    "学习计划/学习计划-tmp.md"
   ]
 }
