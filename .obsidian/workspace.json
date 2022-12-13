@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2022-12-10_星期六.md",
+                "file": "Daily/2022-12-11_星期日.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/未命名.md",
+                "file": "Daily/2022-12-11_星期日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/未命名.md",
+                "file": "Daily/2022-12-11_星期日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/未命名.md"
+                "file": "Daily/2022-12-11_星期日.md"
               }
             }
           }
@@ -149,7 +148,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1d531457540b56f",
+  "active": "c8de97ef557deb4b",
   "lastOpenFiles": [
     "Daily/2022-12-10_星期六.md",
     "Daily/2022-12-09_星期五.md",
