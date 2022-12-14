@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/设计模式.md",
+                "file": "Daily/2022-12-14_星期三.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/设计模式.md",
+                "file": "Daily/2022-12-14_星期三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/设计模式.md",
+                "file": "Daily/2022-12-14_星期三.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/设计模式.md"
+                "file": "Daily/2022-12-14_星期三.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "c8de97ef557deb4b",
   "lastOpenFiles": [
+    "Notes/设计模式.md",
     "Daily/2022-12-13_星期二.md",
     "Daily/2022-12-09_星期五.md",
     "Daily/2022-12-10_星期六.md",
@@ -158,7 +159,6 @@
     "Daily/2022-12-07_星期三.md",
     "Daily/2022-12-06_星期二.md",
     "Notes/obsidian学习.md",
-    "内容.md",
-    "Daily/2022-12-05_星期一.md"
+    "内容.md"
   ]
 }
