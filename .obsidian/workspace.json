@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fd45206c4c3f5dc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "入职待办.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a7c0045ff860e090",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-12-14_星期三.md",
+                "file": "入职待办.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-12-14_星期三.md",
+                "file": "入职待办.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-12-14_星期三.md"
+                "file": "入职待办.md"
               }
             }
           }
@@ -148,8 +161,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c8de97ef557deb4b",
+  "active": "fd45206c4c3f5dc9",
   "lastOpenFiles": [
+    "Daily/2022-12-14_星期三.md",
     "Notes/设计模式.md",
     "Daily/2022-12-13_星期二.md",
     "Daily/2022-12-09_星期五.md",
@@ -158,7 +172,6 @@
     "Daily/2022-12-08_星期四.md",
     "Daily/2022-12-07_星期三.md",
     "Daily/2022-12-06_星期二.md",
-    "Notes/obsidian学习.md",
-    "内容.md"
+    "Notes/obsidian学习.md"
   ]
 }
